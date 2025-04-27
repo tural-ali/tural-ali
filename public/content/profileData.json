@@ -1,0 +1,312 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "turali",
+    "displayName": "Tural Ali",
+    "profession": "dep. CTO@OneDome.com",
+    "location": "London, UK",
+    "pronouns": "He",
+    "byline": "dep. CTO@OneDome.com in London, UK, He",
+    "website": "https://turalali.com",
+    "websiteURL": "https://turalali.com",
+    "about": "Leveraging a decade of experience in cloud and web technologies to drive innovation as a Deputy CTO at OneDome.com",
+    "status": {
+      "text": "diving into Golang",
+      "emoji": "🤠",
+      "timestamp": "2022-04-29T13:21:21.540Z"
+    },
+    "sectionOrder": null
+  },
+  "projects": [],
+  "sideProjects": [],
+  "exhibitions": [],
+  "talks": [],
+  "writing": [
+    {
+      "id": "ohBJFXgXwcyGqo7uidH6",
+      "year": "2023",
+      "heading": "To Be Effective at Programming, Doesn’t Necessarily Mean You Have to Keep Writing Code, Medium.com",
+      "url": "https://betterprogramming.pub/to-be-effective-at-programming-you-have-to-stop-writing-code-dcf7a2aec383",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "writing",
+      "title": "To Be Effective at Programming, Doesn’t Necessarily Mean You Have to Keep Writing Code",
+      "publisher": "Medium.com"
+    }
+  ],
+  "awards": [],
+  "features": [],
+  "workExperience": [
+    {
+      "id": "XYfyxTl6mCdpCYADExoZ",
+      "year": "2021 — Now",
+      "heading": "dep. CTO at OneDome.com",
+      "url": "http://onedome.com",
+      "collaborators": [],
+      "description": "Onedome.com - is a technology company revolutionizing home moving in the UK.\n\nProgramming Languages: Java, Go, Javascript\n\nTech Stack:\n- Java Spring \n- AWS DynamoDB, EC2, Lambda, S3,  SES, SNS, RDS, ELV, ECS, ECC\n- ElasticSearch \n- Terraform\n- Docker \n- Google Cloud Firebase,  Firestore",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "dep. CTO",
+      "company": "OneDome.com",
+      "location": "London, UK"
+    },
+    {
+      "id": "ze0vR9on5RL1RmmojNKh",
+      "year": "2019 — 2021",
+      "heading": "Co-founder at One Easy Solution",
+      "url": "https://easy.restaurant",
+      "collaborators": [],
+      "description": "EasyRestaurant is an innovative B2B, PAAS software solution of the OES that is dedicated to automating restaurant management operations. It enables online ordering for restaurants and aggregates multiple food delivery platforms (UberEats, Grubhub, etc) accounts in one dashboard.\n- Cut technical costs of the company by 40% by planning a scalable, cloud architecture with a cost-efficient approach \n- Centralized order management by aggregating all orders from the multiple food delivery service accounts of restaurants by reverse-engineering them",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Co-founder",
+      "company": "One Easy Solution",
+      "location": "NYC, US"
+    },
+    {
+      "id": "tCbvZ3JFHtpmhAuLfXXA",
+      "year": "2017 — 2019",
+      "heading": "Tech Lead at BookSpaHotel.com",
+      "url": "https://bookspahotel.com",
+      "collaborators": [],
+      "description": "BookSpaHotel.com is an online hotel booking service specialized in bringing elderly tourists with various diseases from post-USSR countries into more than 350 European spa-hotel complexes. \n- Created a booking search engine and an instant hotel availability check by integrating more than 350 hotels. While doing it talking to the people in senior technical roles from all businesses as part of my daily routine. \n- Increased speed of the sales team by 10 times by automating price management based on competitors’ price changes via reverse-engineering to get competitive prices from their websites. \n- Created a cost-efficient server infrastructure by designing a cloud microservice architecture",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Tech Lead",
+      "company": "BookSpaHotel.com",
+      "location": "Prague, Czech Republic"
+    },
+    {
+      "id": "4JOp3QfM4MRyknjUhG2y",
+      "year": "2016 — 2017",
+      "heading": "Software Engineer at DSG Iletisim",
+      "url": "https://hediyesepeti.com",
+      "collaborators": [],
+      "description": "hediyesepeti.com is one of the top Turkish e-commerce platforms focused on the gifting market.\n - Decreased technical costs by 2 times by re-structuring the platform from a monolith to a microservice, cloud architecture\n - Increased traffic to the website by 40% by instantly generating photo-realistic previews of the items based on user inputs.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Software Engineer",
+      "company": "DSG Iletisim",
+      "location": "Istanbul, Turkey"
+    },
+    {
+      "id": "8kgjoUBaW8unV417avVS",
+      "year": "2012 — 2014",
+      "heading": "Software Engineer at Baku State University",
+      "url": "https://bsu.edu.az",
+      "collaborators": [],
+      "description": "Baku State University is one of the leading universities in Azerbaijan.\n- Achieved 10 times faster page load by re-constructing the main website - bsu.edu.az\n- Built an electronic scientific document database of the university available for the students\n- Minimalized human factor by re-structuring in-place controlled computer-based exam auditoriums of the university to remote management",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Software Engineer",
+      "company": "Baku State University",
+      "location": "Baku, Azerbaijan"
+    }
+  ],
+  "volunteering": [],
+  "education": [
+    {
+      "id": "K7kXItAtPDnf1123hTP4",
+      "year": "2011 — 2014",
+      "heading": "Bachelor's Degrees in Applied Mathematics at Baku State University",
+      "url": "https://bsu.edu.az",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "education",
+      "degree": "Bachelor's Degrees in Applied Mathematics",
+      "school": "Baku State University",
+      "location": "Baku, Azerbaijan"
+    },
+    {
+      "id": "du0NFiUdRASVdd6vWi9K",
+      "year": "2009 — 2011",
+      "heading": "Bachelor's Degrees in Applied Mathematics at Moscow State University",
+      "url": "https://msu.az/",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "education",
+      "degree": "Bachelor's Degrees in Applied Mathematics",
+      "school": "Moscow State University",
+      "location": "Baku, Azerbaijan"
+    }
+  ],
+  "certifications": [],
+  "contact": [
+    {
+      "id": "7AJvlfm68gSeDwWrfuAV",
+      "platform": "Telegram",
+      "handle": "tur_ali",
+      "url": "https://t.me/tur_ali"
+    },
+    {
+      "id": "doJF0UhhuDRftGYfVTV5",
+      "platform": "LinkedIn",
+      "handle": "atural",
+      "url": "https://linkedin.com/in/atural"
+    },
+    {
+      "id": "Doq6A0PwO4Mr9L8VGpNq",
+      "platform": "GitHub",
+      "handle": "turalus",
+      "url": "https://github.com/turalus"
+    },
+    {
+      "id": "8KcAFrGs507jKJO7PkQa",
+      "platform": "Email",
+      "handle": "hello@turalali.com",
+      "url": "mailto:hello@turalali.com"
+    }
+  ],
+  "allCollections": [
+    {
+      "name": "Writing",
+      "items": [
+        {
+          "id": "ohBJFXgXwcyGqo7uidH6",
+          "year": "2023",
+          "heading": "To Be Effective at Programming, Doesn’t Necessarily Mean You Have to Keep Writing Code, Medium.com",
+          "url": "https://betterprogramming.pub/to-be-effective-at-programming-you-have-to-stop-writing-code-dcf7a2aec383",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "writing",
+          "title": "To Be Effective at Programming, Doesn’t Necessarily Mean You Have to Keep Writing Code",
+          "publisher": "Medium.com"
+        }
+      ]
+    },
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "XYfyxTl6mCdpCYADExoZ",
+          "year": "2021 — Now",
+          "heading": "dep. CTO at OneDome.com",
+          "url": "http://onedome.com",
+          "collaborators": [],
+          "description": "Onedome.com - is a technology company revolutionizing home moving in the UK.\n\nProgramming Languages: Java, Go, Javascript\n\nTech Stack:\n- Java Spring \n- AWS DynamoDB, EC2, Lambda, S3,  SES, SNS, RDS, ELV, ECS, ECC\n- ElasticSearch \n- Terraform\n- Docker \n- Google Cloud Firebase,  Firestore",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "dep. CTO",
+          "company": "OneDome.com",
+          "location": "London, UK"
+        },
+        {
+          "id": "ze0vR9on5RL1RmmojNKh",
+          "year": "2019 — 2021",
+          "heading": "Co-founder at One Easy Solution",
+          "url": "https://easy.restaurant",
+          "collaborators": [],
+          "description": "EasyRestaurant is an innovative B2B, PAAS software solution of the OES that is dedicated to automating restaurant management operations. It enables online ordering for restaurants and aggregates multiple food delivery platforms (UberEats, Grubhub, etc) accounts in one dashboard.\n- Cut technical costs of the company by 40% by planning a scalable, cloud architecture with a cost-efficient approach \n- Centralized order management by aggregating all orders from the multiple food delivery service accounts of restaurants by reverse-engineering them",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Co-founder",
+          "company": "One Easy Solution",
+          "location": "NYC, US"
+        },
+        {
+          "id": "tCbvZ3JFHtpmhAuLfXXA",
+          "year": "2017 — 2019",
+          "heading": "Tech Lead at BookSpaHotel.com",
+          "url": "https://bookspahotel.com",
+          "collaborators": [],
+          "description": "BookSpaHotel.com is an online hotel booking service specialized in bringing elderly tourists with various diseases from post-USSR countries into more than 350 European spa-hotel complexes. \n- Created a booking search engine and an instant hotel availability check by integrating more than 350 hotels. While doing it talking to the people in senior technical roles from all businesses as part of my daily routine. \n- Increased speed of the sales team by 10 times by automating price management based on competitors’ price changes via reverse-engineering to get competitive prices from their websites. \n- Created a cost-efficient server infrastructure by designing a cloud microservice architecture",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Tech Lead",
+          "company": "BookSpaHotel.com",
+          "location": "Prague, Czech Republic"
+        },
+        {
+          "id": "4JOp3QfM4MRyknjUhG2y",
+          "year": "2016 — 2017",
+          "heading": "Software Engineer at DSG Iletisim",
+          "url": "https://hediyesepeti.com",
+          "collaborators": [],
+          "description": "hediyesepeti.com is one of the top Turkish e-commerce platforms focused on the gifting market.\n - Decreased technical costs by 2 times by re-structuring the platform from a monolith to a microservice, cloud architecture\n - Increased traffic to the website by 40% by instantly generating photo-realistic previews of the items based on user inputs.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Software Engineer",
+          "company": "DSG Iletisim",
+          "location": "Istanbul, Turkey"
+        },
+        {
+          "id": "8kgjoUBaW8unV417avVS",
+          "year": "2012 — 2014",
+          "heading": "Software Engineer at Baku State University",
+          "url": "https://bsu.edu.az",
+          "collaborators": [],
+          "description": "Baku State University is one of the leading universities in Azerbaijan.\n- Achieved 10 times faster page load by re-constructing the main website - bsu.edu.az\n- Built an electronic scientific document database of the university available for the students\n- Minimalized human factor by re-structuring in-place controlled computer-based exam auditoriums of the university to remote management",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Software Engineer",
+          "company": "Baku State University",
+          "location": "Baku, Azerbaijan"
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "items": [
+        {
+          "id": "K7kXItAtPDnf1123hTP4",
+          "year": "2011 — 2014",
+          "heading": "Bachelor's Degrees in Applied Mathematics at Baku State University",
+          "url": "https://bsu.edu.az",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "education",
+          "degree": "Bachelor's Degrees in Applied Mathematics",
+          "school": "Baku State University",
+          "location": "Baku, Azerbaijan"
+        },
+        {
+          "id": "du0NFiUdRASVdd6vWi9K",
+          "year": "2009 — 2011",
+          "heading": "Bachelor's Degrees in Applied Mathematics at Moscow State University",
+          "url": "https://msu.az/",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "education",
+          "degree": "Bachelor's Degrees in Applied Mathematics",
+          "school": "Moscow State University",
+          "location": "Baku, Azerbaijan"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "7AJvlfm68gSeDwWrfuAV",
+          "platform": "Telegram",
+          "handle": "tur_ali",
+          "url": "https://t.me/tur_ali"
+        },
+        {
+          "id": "doJF0UhhuDRftGYfVTV5",
+          "platform": "LinkedIn",
+          "handle": "atural",
+          "url": "https://linkedin.com/in/atural"
+        },
+        {
+          "id": "Doq6A0PwO4Mr9L8VGpNq",
+          "platform": "GitHub",
+          "handle": "turalus",
+          "url": "https://github.com/turalus"
+        },
+        {
+          "id": "8KcAFrGs507jKJO7PkQa",
+          "platform": "Email",
+          "handle": "hello@turalali.com",
+          "url": "mailto:hello@turalali.com"
+        }
+      ]
+    }
+  ]
+}
